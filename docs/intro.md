@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**. And let's twice check CI/CD!
+Let's discover **Docusaurus in less than 5 minutes**. And let's twice and more check CI/CD!
 
 ## Getting Started
 
