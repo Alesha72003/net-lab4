@@ -1,25 +1,36 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: Цены на лабы
+title: Цены на лабы
+authors: [scv]
+tags: [price]
 ---
+**Условия выполнения лабораторных работ**
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Цена выполнения лабораторной работы фиксируется в момент принятия заказа. Работа происходит без предоплаты, полная стоимость выплачивается после передачи сделанной лабы. Мы оставляем за собой право делать ислючения из этого правила без обьяснения причин.
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Вы можете заказать лабораторные работы у [Сергея](https://t.me/Lunitarik). Пожалуйста, при заказе не забывайте писать номера группы и варианта.
 
-Regular blog authors can be added to `authors.yml`.
+**Актуальные цены на лабораторные**:
 
-The blog post date can be extracted from filenames, such as:
+* Беспроводные Сети/Мобильные сети
+  
+| Лабораторная | Цена, руб |
+| -------- | ------- |
+| 1 лаба | 1000 |
+| 2 лаба | 750 |
+| 3 лаба | 1500 |
+| 4 лаба | в разработке |
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+:::tip Входит
 
-A blog post folder can be convenient to co-locate blog post images:
+В стоимость входит лабораторная работа и файлик с объяснениями. Поддержка при сдаче и держание за ручку, чтобы не волновались - не входит!
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+:::
 
-The blog supports tags as well!
+* placeholder
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+:::danger Торопитесь!
+
+Ближе к концу семестра цена может увеличиваться!
+
+:::
