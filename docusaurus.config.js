@@ -78,7 +78,7 @@ const config = {
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://kick.me',
+            href: 'https://github.com/Alesha72003/net-lab4',
             label: 'GitHub',
             position: 'right',
           },
@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://kick.me',
+                href: 'https://github.com/Alesha72003/net-lab4',
               },
             ],
           },
