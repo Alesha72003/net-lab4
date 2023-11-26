@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Ход работы',
-                to: '/docs/4',
+                to: '/docs/MosHub/4',
               },
             ],
           },
