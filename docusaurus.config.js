@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Ход работы',
-                to: '/docs/intro',
+                to: '/docs/4',
               },
             ],
           },
