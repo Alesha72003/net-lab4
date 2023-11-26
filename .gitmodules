@@ -1,0 +1,3 @@
+[submodule "docs/Методички с moshub-а"]
+	path = docs/Методички с moshub-а
+	url = https://hub.mos.ru/iu5bmstu/lections-and-labs/netsecurity/netsecurity.git
