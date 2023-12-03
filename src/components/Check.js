@@ -16,7 +16,7 @@ export default function Check() {
             content: {
                name,
                group,
-               part
+               part: Number(part);
             },
             sign
         }).then((response) => {
