@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ЛР4',
-  tagline: 'Она крутая',
+  tagline: 'По-настоящему интересная ЛР',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Ход работы',
-                to: '/docs/MosHub/4',
+                to: '/docs/4',
               },
             ],
           },
@@ -117,8 +117,8 @@ const config = {
             title: 'Доп. информация',
             items: [
               {
-                label: 'Цены на лабы',
-                to: '/blog',
+                label: 'Страница загрузок',
+                to: '/blog/machines',
               },
               {
                 label: 'GitHub',
