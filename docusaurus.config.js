@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Команда Forshielders. Built with Docusaurus.`,
+        copyright: `Команда Forshielders`,
       },
       prism: {
         theme: lightCodeTheme,
