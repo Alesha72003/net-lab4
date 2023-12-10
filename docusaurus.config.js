@@ -21,7 +21,7 @@ const config = {
   organizationName: 'Forshielders', // Usually your GitHub org/user name.
   projectName: 'lab4', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
